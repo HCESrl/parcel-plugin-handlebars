@@ -175,7 +175,7 @@ module.exports = {
     'id-blacklist': 'off', // [.., ..]
     'id-length': 'off',
     'id-match': 'off',
-    'indent': ['warn', 2],
+    'indent': ['warn', 4],
     'jsx-quotes': 'off',
     'key-spacing': ['warn', { beforeColon: false, afterColon: true }],
     'keyword-spacing': ['warn', { before: true, after: true }],
