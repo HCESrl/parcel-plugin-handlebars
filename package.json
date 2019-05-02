@@ -1,5 +1,5 @@
 {
-  "name": "parcel-plugin-handlebars-benz",
+  "name": "parcel-plugin-handlebars-hce",
   "version": "0.4.8",
   "description": "Parcel plugin to compile handlebars layouts templates.",
   "main": "index.js",
@@ -22,9 +22,9 @@
   "author": "Robbie Hernandez <jayrotek@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BenzLeung/parcel-plugin-handlebars/issues"
+    "url": "https://github.com/HCESrl/parcel-plugin-handlebars/issues"
   },
-  "homepage": "https://github.com/BenzLeung/parcel-plugin-handlebars#readme",
+  "homepage": "https://github.com/HCESrl/parcel-plugin-handlebars/#readme",
   "peerDependencies": {
     "front-matter": "^2.3.0",
     "handlebars": "^4.0.11",
@@ -40,7 +40,7 @@
     "handlebars-helpers": "^0.10.0",
     "handlebars-layouts": "^3.1.4",
     "handlebars-wax": "^6.1.0",
-    "parcel-bundler": "https://github.com/BenzLeung/parcel-plugin-handlebars"
+    "parcel-bundler": "https://github.com/HCESrl/parcel.git"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
